@@ -138,7 +138,7 @@ The code in this project is the experimental implementation for the paper titled
 `npm run dev`
 4. 在http://服务器IP:9528打开
 
-## 项目申明 Project Statement
+## 项目声明 Project Statement
 本项目的作者及单位:
 The author and affiliation of this project:
 
