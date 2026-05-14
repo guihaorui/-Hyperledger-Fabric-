@@ -137,3 +137,9 @@ The code in this project is the experimental implementation for the paper titled
 3. 在`dataex/application/web`目录下： 执行：
 `npm run dev`
 4. 在http://服务器IP:9528打开
+
+本项目的作者及单位:
+The author and affiliation of this project:
+项目名称(Project Name):基于Hyperledger Fabric的数据共享系统的设计与实现
+项目作者 (Author) : Haorui Gui, Anjia Yang
+作者单位(Affiliation):暨南大学网络空间安全学院(College of cyber Security,Jinan University)
