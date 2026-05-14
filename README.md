@@ -1,4 +1,13 @@
-DataEx 部署步骤
+本项目是论文《Design and Implementation of a Data Sharing System Based on Hyperledger Fabric》的实验代码, 实现了一种基于区块链技术的数据共享系统。
+The code in this project is the experimental implementation for the paper titled 'Design and Implementation of a Data Sharing System Based on Hyperledger Fabric', which realizes a blockchain-based data sharing system.
+
+## 目录 Table of Contents
+
+- [项目目录 Project Directory](#项目目录-project-directory)
+- [使用方法 Getting Started](#使用方法-getting-started)
+- [项目声明 Project Statement](#项目声明-project-statement)
+
+部署步骤
 
 1. 安装docker 
 
