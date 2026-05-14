@@ -6,7 +6,7 @@ The code in this project is the experimental implementation for the paper titled
 
 - [项目目录 Project Directory](#项目目录-project-directory)
 - [使用方法 Getting Started](#使用方法-getting-started)
-- [项目声明 Project Statement]([#项目声明-project-statement](https://github.com/guihaorui/-Hyperledger-Fabric-/blob/main/%E9%A1%B9%E7%9B%AE%E5%A3%B0%E6%98%8E%20Project%20Statement))
+- [项目声明 Project Statement](#项目声明-project-statement)
 
 部署步骤
 
